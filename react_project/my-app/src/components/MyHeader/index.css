@@ -1,5 +1,13 @@
 .logo{
-    width: 36px;
-    height: 36px;
+    width: 42px;
+    height: 42px;
     border-radius: 50%;
+    float: left;
+    margin-top: 10px;
+}
+
+.app-header-menu{
+    float: left;
+    margin-left: 20px !important;
+    border-bottom: 0;
 }
